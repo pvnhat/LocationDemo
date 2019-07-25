@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rSG/values-en-rSG.xml",
+            "map": [
+                {
+                    "source": "/home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4daf97225d2e1257f721eb6d06f9deb1/res/values-en-rSG/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "206",
+                        "endColumns": "99",
+                        "endOffsets": "305"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "103",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        }
+    ]
+}
