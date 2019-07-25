@@ -9,15 +9,18 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.Observer
 import com.example.locationdemo.R
+import com.google.android.gms.common.api.ApiException
+import com.google.android.gms.common.api.ResolvableApiException
 import com.google.android.gms.location.FusedLocationProviderClient
 import com.google.android.gms.location.LocationServices
+import com.google.android.gms.location.LocationSettingsResponse
+import com.google.android.gms.location.LocationSettingsStatusCodes
 import com.vannhat.locationdemo.Utils.isPermissionGranted
 import com.vannhat.locationdemo.Utils.requestAppPermission
+import com.vannhat.locationdemo.rx_demo.CheckLocationUseCase
+import com.vannhat.locationdemo.rx_demo.GetLocationUseCase
 import com.vannhat.locationdemo.rx_demo.RxDemoActivity
 import com.vannhat.locationdemo.rx_demo.SingleCustomObserver
-import io.reactivex.Single
-import io.reactivex.android.schedulers.AndroidSchedulers
-import io.reactivex.schedulers.Schedulers
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
@@ -27,6 +30,8 @@ class MainActivity : AppCompatActivity() {
     private var addresses: List<Address>? = null
     private var addressLiveData = MutableLiveData<String>()
     private var addressString = String()
+    private var getLocationUseCase: GetLocationUseCase? = null
+    private var checkLocationUseCase: CheckLocationUseCase? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -45,33 +50,14 @@ class MainActivity : AppCompatActivity() {
     private fun initData() {
         fusedLocationProviderClient = LocationServices.getFusedLocationProviderClient(this)
         geocoder = Geocoder(this)
+        getLocationUseCase = GetLocationUseCase()
+        checkLocationUseCase = CheckLocationUseCase()
 
     }
 
     private fun handleEvent() {
         btn_get_location.setOnClickListener {
-            getLocationFromCoordinates(object : SingleCustomObserver<Location>() {
-                override fun onSubscribe() {
-                    super.onSubscribe()
-                    tv_location.text = getString(R.string.loading)
-                }
-
-                override fun onSuccess(t: Location) {
-                    super.onSuccess(t)
-                    addresses = geocoder?.getFromLocation(t.latitude, t.longitude, 1)
-                    addresses?.get(0)?.let {
-                        addressString = it.countryName
-                        addressString += " " + it.adminArea
-                        addressString += " " + it.getAddressLine(0)
-                        addressLiveData.value = addressString
-                    }
-                }
-
-                override fun onError(throwable: Throwable) {
-                    super.onError(throwable)
-                    Utils.createLog("Error last location : ${throwable.message}")
-                }
-            })
+            getLocationFromCoordinates()
         }
 
         btn_get_coordinates.setOnClickListener {
@@ -80,6 +66,34 @@ class MainActivity : AppCompatActivity() {
 
         btn_next.setOnClickListener {
             startActivity(RxDemoActivity.newInstance(this))
+        }
+
+        btn_check_location.setOnClickListener {
+            checkLocation()
+        }
+
+    }
+
+    private fun checkLocation() {
+        checkLocationUseCase?.let {
+            val settingClient = LocationServices.getSettingsClient(this)
+            it.execute(CheckLocationUseCase.Input(settingClient),
+                object : SingleCustomObserver<LocationSettingsResponse>() {
+                    override fun onSubscribe() {
+                        super.onSubscribe()
+                        tv_location.text = getString(R.string.loading)
+                    }
+
+                    override fun onError(throwable: Throwable) {
+                        super.onError(throwable)
+                        if (throwable is ApiException &&
+                            throwable.statusCode == LocationSettingsStatusCodes.RESOLUTION_REQUIRED) {
+                            val resolvable = throwable as ResolvableApiException
+                            resolvable.startResolutionForResult(this@MainActivity,
+                                REQUEST_CHECK_SETTING)
+                        }
+                    }
+                })
         }
 
     }
@@ -98,28 +112,40 @@ class MainActivity : AppCompatActivity() {
 
     // Get location detail from coordinates (latitude, longitude)
     @SuppressLint("MissingPermission", "CheckResult")
-    private fun getLocationFromCoordinates(observer: SingleCustomObserver<Location>) {
-        if (isPermissionGranted(this)) {
+    private fun getLocationFromCoordinates() {
+        if (isPermissionGranted(this) && fusedLocationProviderClient != null) {
+            getLocationUseCase?.execute(GetLocationUseCase.Input(fusedLocationProviderClient!!),
+                object : SingleCustomObserver<Location>() {
+                    override fun onSubscribe() {
+                        super.onSubscribe()
+                        tv_location.text = getString(R.string.loading)
+                    }
 
-            Single.create<Location> { emitter ->
-                fusedLocationProviderClient?.lastLocation?.addOnCompleteListener {
-                    emitter.onSuccess(it.result)
-                }
+                    override fun onSuccess(t: Location) {
+                        super.onSuccess(t)
+                        addresses = geocoder?.getFromLocation(t.latitude, t.longitude, 1)
+                        addresses?.get(0)?.let {
+                            addressString = it.countryName
+                            addressString += " " + it.adminArea
+                            addressString += " " + it.getAddressLine(0)
+                            addressLiveData.value = addressString
+                        }
+                    }
 
-                fusedLocationProviderClient?.lastLocation?.addOnFailureListener {
-                    emitter.onError(it)
-                }
-
-            }.subscribeOn(Schedulers.io())
-                .observeOn(AndroidSchedulers.mainThread())
-                .doOnSubscribe(observer.onSubscribeConsumer())
-                .doAfterTerminate(observer.onAfterTerminateAction())
-                .doFinally(observer.doFinallyAction())
-                .subscribe(observer.getSuccessConsumer(),
-                    observer.onErrorConsumer())
+                    override fun onError(throwable: Throwable) {
+                        super.onError(throwable)
+                        Utils.createLog("Error last location : ${throwable.message}")
+                    }
+                })
 
         } else {
             requestAppPermission(this)
         }
     }
+
+    companion object {
+        private const val REQUEST_CHECK_SETTING = 96
+    }
+
+
 }

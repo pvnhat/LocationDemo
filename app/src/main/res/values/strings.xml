@@ -7,6 +7,8 @@
     <string name="interval">Interval</string>
     <string name="defer">Defer</string>
     <string name="create">Create</string>
-    <string name="loading">loading ...</string>
+    <string name="done">Done!</string>
+    <string name="loading">loading …</string>
     <string name="get_coordinates">Get Coordinates</string>
+    <string name="check_location">Check Location</string>
 </resources>
