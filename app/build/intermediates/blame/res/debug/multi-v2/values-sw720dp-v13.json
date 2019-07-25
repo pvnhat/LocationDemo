@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/695edbe16327219b86693fb448b2c1cd/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    }
+                }
+            ]
+        }
+    ]
+}

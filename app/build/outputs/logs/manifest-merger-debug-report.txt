@@ -1,0 +1,1032 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b089c9a742a7e23c3398b623636e7a43/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ffee9d85e5f0671a070dcf092bb27442/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/695edbe16327219b86693fb448b2c1cd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f41a6580bc059977bd923cf621f37b71/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1cb26c9987fb8c03a3eda15a9fe3da2e/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/09b9be5619cdaa887f95d031b86b423a/AndroidManifest.xml:2:1-11:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f213ba2166fde0a76091ba0e97f12657/AndroidManifest.xml:15:1-20:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ebb206f50a5ef96cd71494c82190ef97/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/100bd7f770c4cdb76d65a028c4e90669/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a9aa9c9062c6b958ad513fe32b4bb3d2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6484bdb65ad6d17c56de8a4627051ccc/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cd2c0d0ca23cf09806d6dd819de16409/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/35aeef1e0af834993180affae056e361/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/26d73aa986d18b54a27e9232d80309b7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/309b544f33aa56cc1ac8a6249dad7ffb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/815898bca2c9cfac9284a38b654706a5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/39735462fc16b8c8fe6fa7bf38ef3295/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/be2b62c3497dbd93ae6d5e620d56dea1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a6e8b5c619d5f60f8a790bc5314ed5d5/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/45ff63ba84480b2a6ffb80876ba7d5af/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4daf97225d2e1257f721eb6d06f9deb1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1a3f7b9a43518663705a4331601b32af/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/43f8ab3a8fcc526ddd27f5e81b7b7c13/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7931e73591dff96abcab160816975ba2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/de2e355f195f7bd44e3d4abd190f54ab/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9832c824874956fc442d7d667777c31c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a49931cb3c489b963266e92e36b85b19/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f6b4de8795de3b79f40b5d70fbdd5f9c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2a4dc663113a62aea49b5a1129fad83d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/300156b16463cee37f515b3756fa43aa/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2c88154c0324c30d50f92daccb5b9470/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d62634e4ef466b52561ba04878f8d96a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e068eccc407c90e5906ac101893e7994/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/878c506f3d37441a72b51ca5e4bad6fc/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b3cc62b246d47c727ef3c6c4f008a42a/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8b74d402d23bbec37888b38ab69fafaf/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6f715c48ce936b5e8c53948b918da06a/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/537fe3e79af6fdfc86e095d2463ed5ff/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/53e2a5b414e147b49f500130c282be39/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/02d6e809520e1e4faaf516a7838a5192/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9fb15f1f3201182c32b944a78387daef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/aea2e40ddc6d82c983e50669ef9f2743/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2685c96d21c19b2bd1227c8eec387dee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73a6bb45d6fb75ade235fc7038bba671/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4cb7b4d48577e2a8dcf2e45217bb05b9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/80f4cf6b00a03ffcfb14aa9e5b6dbf05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bd7e7cf6861e6918ae7523d111c15a09/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d64c0d40002701939e3571e823027385/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/206d8ef14499af52d68bfee6aab1553d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bc16cd1079c538c70d55c87692efc518/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/14468ee2141499e4d10c142c66dc4426/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1d7a8c6efb55ca0fee03a5d65963d575/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/11b9b4274125f471b7c4526ae0f46a3f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f9462f60c48cbfab3d5ad16a51e7506e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/81384c28eeb0f4592bf5830f2574b92a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/94b64424c899e71115abf310ab79cc59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ff579a9f2188bbb217207ff52e920e92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2b899bba648fc5c5cbb4be5c8ab6f951/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1bdc65628f143ae2ab4e91610c734b12/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24da5edd9ddc114cea93dd0b6d8a08ce/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/0972f960f2e384b7e68b155e74d48553/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f6c1c8dc062489ee5fbbd5f0a973ee91/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/afd0396eef56ff22800056d26989a6d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b09b032338e469f813fb541384daec50/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ae4e8c2dffada01e240cfa394036cf20/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/98649d9b54e207d634780f675c98c68b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b852fbb36192edc38c0b08f567834e3d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cdc525a133f520bf1032069a5ad8595c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7481f4d80c9d224b7d183ed1ec2c1178/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93d6c6562d773b5d4322ef17f2eb48d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/149de3f25434abefd1ff3e34f89c53fc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fb9c83170e82163a6dcf04f28d0cd14e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a1ecbcbcf50c1fba3c4943bc6d73d75b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7bdc8a8c33a311805525c8e7200ad7c8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a7ada7024f9838033918d092bf2ae30d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e2aecbe952a2faf76f1d408d058eed71/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/c740cbbee9d539e5e51c916e80234814/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d7b957acc596c708253fb498eb1052bb/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/34de2db0f2c0a701fe2dee8fb127f257/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3a3345e6bc1bac3e82d9cafd7d0a6fc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/dbd164de01d86f214420739d3613cbe1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b8fc5c71eb86bdfc2afc975d971fa919/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/5891c55201aef159da0f99ea8329a82c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7287d8a3c7b1c34a061264d859f2ba85/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24684dd7c710245e5140e2fcb7772a3a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1934f7210a80836572485b7e8bf1ec7a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3228abb7af8ecbe63cf61744ac0afc20/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d137da2e073fac83e5762da3be9d93d6/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4057cc9b66ccddd170413eb6857ba74a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ee38e1fcec0c9bc5eb33e4a25521d27d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6b68c84bc0259d68e65d888357ad7026/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/0e202be5e44f7698d6cbbdfc892a8666/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9aa5c853ab70a3d53d25d5f916b7e15c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/296ad9e31bea9a0af468c0dbda4ea668/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da3f649938f3c4c606a1dcb857a6162f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8eab3fe92bc820fbfe8993196a02b92a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3ed3653e83adb0dceb75eb814e5d9d8f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/918cbe7ccf5cfa68763b02f033500abf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/661a23fa9c49d4e1aa4047cda7bec6ad/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6c2c0b192acf94df5755aef9a91b7c04/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da38fd668071bbc2cc8899e421378dc8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8154adcf6890fd26d63a7a3b685716fc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/69871b6c84d3e5ac74a18995ef517ad7/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3e412f7034f5ce10c97c1755145c91b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8f8f1fa8918f58cb7718d0f362d37488/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b13c1f409f0874432e4e938702218e3b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9bbc0326e7991904b5d834a4db6c6945/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9c227537a7d4c2aa7f32aa6007e7b7d4/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3a6ccc41ff1daed0229cf7f7ac895aac/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/19136f4a4767e4676f86c41ce19ef390/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4826e76fa5cad6ebcdbe4c9083c0e992/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/aeb1da4e3f1df782ac9907b82b326503/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/51204c1388a335d401cf58e67fec4f54/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/44ae99ee503312d57da4077576c3bf83/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/215f21415affb8eb6a45cc2972ea7570/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d96ec9a02ef4e88451fb840063ae348a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/404b8f017e405bda3dec55691179534e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/369bd20e878ab950a6c6476430efdf93/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d8b2c07caf016c04c93c5788db52154d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9a2ac6a2bc87e88956e9b29412ce5b9d/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:4:11-45
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:3:11-57
+	android:versionCode
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:1-29:12
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e068eccc407c90e5906ac101893e7994/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e068eccc407c90e5906ac101893e7994/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:8:22-76
+application
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:10:5-27:19
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b089c9a742a7e23c3398b623636e7a43/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b089c9a742a7e23c3398b623636e7a43/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ffee9d85e5f0671a070dcf092bb27442/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ffee9d85e5f0671a070dcf092bb27442/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/09b9be5619cdaa887f95d031b86b423a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/09b9be5619cdaa887f95d031b86b423a/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a9aa9c9062c6b958ad513fe32b4bb3d2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a9aa9c9062c6b958ad513fe32b4bb3d2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/35aeef1e0af834993180affae056e361/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/35aeef1e0af834993180affae056e361/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/26d73aa986d18b54a27e9232d80309b7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/26d73aa986d18b54a27e9232d80309b7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/309b544f33aa56cc1ac8a6249dad7ffb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/309b544f33aa56cc1ac8a6249dad7ffb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/815898bca2c9cfac9284a38b654706a5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/815898bca2c9cfac9284a38b654706a5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/39735462fc16b8c8fe6fa7bf38ef3295/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/39735462fc16b8c8fe6fa7bf38ef3295/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/be2b62c3497dbd93ae6d5e620d56dea1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/be2b62c3497dbd93ae6d5e620d56dea1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a6e8b5c619d5f60f8a790bc5314ed5d5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a6e8b5c619d5f60f8a790bc5314ed5d5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/45ff63ba84480b2a6ffb80876ba7d5af/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/45ff63ba84480b2a6ffb80876ba7d5af/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1a3f7b9a43518663705a4331601b32af/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1a3f7b9a43518663705a4331601b32af/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7931e73591dff96abcab160816975ba2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7931e73591dff96abcab160816975ba2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/de2e355f195f7bd44e3d4abd190f54ab/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/de2e355f195f7bd44e3d4abd190f54ab/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9832c824874956fc442d7d667777c31c/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9832c824874956fc442d7d667777c31c/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a49931cb3c489b963266e92e36b85b19/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a49931cb3c489b963266e92e36b85b19/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f6b4de8795de3b79f40b5d70fbdd5f9c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f6b4de8795de3b79f40b5d70fbdd5f9c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2a4dc663113a62aea49b5a1129fad83d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2a4dc663113a62aea49b5a1129fad83d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/300156b16463cee37f515b3756fa43aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/300156b16463cee37f515b3756fa43aa/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2c88154c0324c30d50f92daccb5b9470/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2c88154c0324c30d50f92daccb5b9470/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d62634e4ef466b52561ba04878f8d96a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d62634e4ef466b52561ba04878f8d96a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e068eccc407c90e5906ac101893e7994/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e068eccc407c90e5906ac101893e7994/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/537fe3e79af6fdfc86e095d2463ed5ff/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/537fe3e79af6fdfc86e095d2463ed5ff/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/53e2a5b414e147b49f500130c282be39/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/53e2a5b414e147b49f500130c282be39/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/02d6e809520e1e4faaf516a7838a5192/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/02d6e809520e1e4faaf516a7838a5192/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1bdc65628f143ae2ab4e91610c734b12/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1bdc65628f143ae2ab4e91610c734b12/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24da5edd9ddc114cea93dd0b6d8a08ce/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24da5edd9ddc114cea93dd0b6d8a08ce/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/149de3f25434abefd1ff3e34f89c53fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/149de3f25434abefd1ff3e34f89c53fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fb9c83170e82163a6dcf04f28d0cd14e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fb9c83170e82163a6dcf04f28d0cd14e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a1ecbcbcf50c1fba3c4943bc6d73d75b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a1ecbcbcf50c1fba3c4943bc6d73d75b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7bdc8a8c33a311805525c8e7200ad7c8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7bdc8a8c33a311805525c8e7200ad7c8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a7ada7024f9838033918d092bf2ae30d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a7ada7024f9838033918d092bf2ae30d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e2aecbe952a2faf76f1d408d058eed71/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e2aecbe952a2faf76f1d408d058eed71/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/c740cbbee9d539e5e51c916e80234814/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/c740cbbee9d539e5e51c916e80234814/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d7b957acc596c708253fb498eb1052bb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d7b957acc596c708253fb498eb1052bb/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/34de2db0f2c0a701fe2dee8fb127f257/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/34de2db0f2c0a701fe2dee8fb127f257/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3a3345e6bc1bac3e82d9cafd7d0a6fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3a3345e6bc1bac3e82d9cafd7d0a6fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/dbd164de01d86f214420739d3613cbe1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/dbd164de01d86f214420739d3613cbe1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b8fc5c71eb86bdfc2afc975d971fa919/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b8fc5c71eb86bdfc2afc975d971fa919/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/5891c55201aef159da0f99ea8329a82c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/5891c55201aef159da0f99ea8329a82c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7287d8a3c7b1c34a061264d859f2ba85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7287d8a3c7b1c34a061264d859f2ba85/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24684dd7c710245e5140e2fcb7772a3a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24684dd7c710245e5140e2fcb7772a3a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1934f7210a80836572485b7e8bf1ec7a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1934f7210a80836572485b7e8bf1ec7a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3228abb7af8ecbe63cf61744ac0afc20/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3228abb7af8ecbe63cf61744ac0afc20/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d137da2e073fac83e5762da3be9d93d6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d137da2e073fac83e5762da3be9d93d6/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4057cc9b66ccddd170413eb6857ba74a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4057cc9b66ccddd170413eb6857ba74a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ee38e1fcec0c9bc5eb33e4a25521d27d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ee38e1fcec0c9bc5eb33e4a25521d27d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6b68c84bc0259d68e65d888357ad7026/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6b68c84bc0259d68e65d888357ad7026/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/0e202be5e44f7698d6cbbdfc892a8666/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/0e202be5e44f7698d6cbbdfc892a8666/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9aa5c853ab70a3d53d25d5f916b7e15c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9aa5c853ab70a3d53d25d5f916b7e15c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/296ad9e31bea9a0af468c0dbda4ea668/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/296ad9e31bea9a0af468c0dbda4ea668/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da3f649938f3c4c606a1dcb857a6162f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da3f649938f3c4c606a1dcb857a6162f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8eab3fe92bc820fbfe8993196a02b92a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8eab3fe92bc820fbfe8993196a02b92a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3ed3653e83adb0dceb75eb814e5d9d8f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3ed3653e83adb0dceb75eb814e5d9d8f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/918cbe7ccf5cfa68763b02f033500abf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/918cbe7ccf5cfa68763b02f033500abf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/661a23fa9c49d4e1aa4047cda7bec6ad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/661a23fa9c49d4e1aa4047cda7bec6ad/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6c2c0b192acf94df5755aef9a91b7c04/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6c2c0b192acf94df5755aef9a91b7c04/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da38fd668071bbc2cc8899e421378dc8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da38fd668071bbc2cc8899e421378dc8/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8154adcf6890fd26d63a7a3b685716fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8154adcf6890fd26d63a7a3b685716fc/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/69871b6c84d3e5ac74a18995ef517ad7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/69871b6c84d3e5ac74a18995ef517ad7/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3e412f7034f5ce10c97c1755145c91b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3e412f7034f5ce10c97c1755145c91b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8f8f1fa8918f58cb7718d0f362d37488/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8f8f1fa8918f58cb7718d0f362d37488/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b13c1f409f0874432e4e938702218e3b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b13c1f409f0874432e4e938702218e3b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9bbc0326e7991904b5d834a4db6c6945/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9bbc0326e7991904b5d834a4db6c6945/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9c227537a7d4c2aa7f32aa6007e7b7d4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9c227537a7d4c2aa7f32aa6007e7b7d4/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3a6ccc41ff1daed0229cf7f7ac895aac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3a6ccc41ff1daed0229cf7f7ac895aac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/19136f4a4767e4676f86c41ce19ef390/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/19136f4a4767e4676f86c41ce19ef390/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4826e76fa5cad6ebcdbe4c9083c0e992/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4826e76fa5cad6ebcdbe4c9083c0e992/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/aeb1da4e3f1df782ac9907b82b326503/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/aeb1da4e3f1df782ac9907b82b326503/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/51204c1388a335d401cf58e67fec4f54/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/51204c1388a335d401cf58e67fec4f54/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/44ae99ee503312d57da4077576c3bf83/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/44ae99ee503312d57da4077576c3bf83/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/215f21415affb8eb6a45cc2972ea7570/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/215f21415affb8eb6a45cc2972ea7570/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d96ec9a02ef4e88451fb840063ae348a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d96ec9a02ef4e88451fb840063ae348a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/404b8f017e405bda3dec55691179534e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/404b8f017e405bda3dec55691179534e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/369bd20e878ab950a6c6476430efdf93/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/369bd20e878ab950a6c6476430efdf93/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d8b2c07caf016c04c93c5788db52154d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d8b2c07caf016c04c93c5788db52154d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9a2ac6a2bc87e88956e9b29412ce5b9d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9a2ac6a2bc87e88956e9b29412ce5b9d/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1bdc65628f143ae2ab4e91610c734b12/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:15:13-39
+	android:label
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:13:13-45
+	tools:ignore
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:17:13-52
+	android:roundIcon
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:14:13-58
+	android:icon
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:12:13-47
+	android:allowBackup
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:11:13-39
+	android:theme
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:16:13-44
+activity#com.vannhat.locationdemo.rx_demo.RxDemoActivity
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:18:9-19:20
+	android:name
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:18:19-81
+activity#com.vannhat.locationdemo.MainActivity
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:20:19-71
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:22:17-68
+	android:name
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b089c9a742a7e23c3398b623636e7a43/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b089c9a742a7e23c3398b623636e7a43/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ffee9d85e5f0671a070dcf092bb27442/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ffee9d85e5f0671a070dcf092bb27442/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/695edbe16327219b86693fb448b2c1cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/695edbe16327219b86693fb448b2c1cd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f41a6580bc059977bd923cf621f37b71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f41a6580bc059977bd923cf621f37b71/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1cb26c9987fb8c03a3eda15a9fe3da2e/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1cb26c9987fb8c03a3eda15a9fe3da2e/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/09b9be5619cdaa887f95d031b86b423a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/09b9be5619cdaa887f95d031b86b423a/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f213ba2166fde0a76091ba0e97f12657/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f213ba2166fde0a76091ba0e97f12657/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ebb206f50a5ef96cd71494c82190ef97/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ebb206f50a5ef96cd71494c82190ef97/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/100bd7f770c4cdb76d65a028c4e90669/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/100bd7f770c4cdb76d65a028c4e90669/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a9aa9c9062c6b958ad513fe32b4bb3d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a9aa9c9062c6b958ad513fe32b4bb3d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6484bdb65ad6d17c56de8a4627051ccc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6484bdb65ad6d17c56de8a4627051ccc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cd2c0d0ca23cf09806d6dd819de16409/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cd2c0d0ca23cf09806d6dd819de16409/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/35aeef1e0af834993180affae056e361/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/35aeef1e0af834993180affae056e361/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/26d73aa986d18b54a27e9232d80309b7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/26d73aa986d18b54a27e9232d80309b7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/309b544f33aa56cc1ac8a6249dad7ffb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/309b544f33aa56cc1ac8a6249dad7ffb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/815898bca2c9cfac9284a38b654706a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/815898bca2c9cfac9284a38b654706a5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/39735462fc16b8c8fe6fa7bf38ef3295/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/39735462fc16b8c8fe6fa7bf38ef3295/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/be2b62c3497dbd93ae6d5e620d56dea1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/be2b62c3497dbd93ae6d5e620d56dea1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a6e8b5c619d5f60f8a790bc5314ed5d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a6e8b5c619d5f60f8a790bc5314ed5d5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/45ff63ba84480b2a6ffb80876ba7d5af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/45ff63ba84480b2a6ffb80876ba7d5af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4daf97225d2e1257f721eb6d06f9deb1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4daf97225d2e1257f721eb6d06f9deb1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1a3f7b9a43518663705a4331601b32af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1a3f7b9a43518663705a4331601b32af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/43f8ab3a8fcc526ddd27f5e81b7b7c13/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/43f8ab3a8fcc526ddd27f5e81b7b7c13/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7931e73591dff96abcab160816975ba2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7931e73591dff96abcab160816975ba2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/de2e355f195f7bd44e3d4abd190f54ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/de2e355f195f7bd44e3d4abd190f54ab/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9832c824874956fc442d7d667777c31c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9832c824874956fc442d7d667777c31c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a49931cb3c489b963266e92e36b85b19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a49931cb3c489b963266e92e36b85b19/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f6b4de8795de3b79f40b5d70fbdd5f9c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f6b4de8795de3b79f40b5d70fbdd5f9c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2a4dc663113a62aea49b5a1129fad83d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2a4dc663113a62aea49b5a1129fad83d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/300156b16463cee37f515b3756fa43aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/300156b16463cee37f515b3756fa43aa/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2c88154c0324c30d50f92daccb5b9470/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2c88154c0324c30d50f92daccb5b9470/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d62634e4ef466b52561ba04878f8d96a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d62634e4ef466b52561ba04878f8d96a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e068eccc407c90e5906ac101893e7994/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e068eccc407c90e5906ac101893e7994/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/878c506f3d37441a72b51ca5e4bad6fc/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/878c506f3d37441a72b51ca5e4bad6fc/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b3cc62b246d47c727ef3c6c4f008a42a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b3cc62b246d47c727ef3c6c4f008a42a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8b74d402d23bbec37888b38ab69fafaf/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8b74d402d23bbec37888b38ab69fafaf/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6f715c48ce936b5e8c53948b918da06a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6f715c48ce936b5e8c53948b918da06a/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/537fe3e79af6fdfc86e095d2463ed5ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/537fe3e79af6fdfc86e095d2463ed5ff/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/53e2a5b414e147b49f500130c282be39/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/53e2a5b414e147b49f500130c282be39/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/02d6e809520e1e4faaf516a7838a5192/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/02d6e809520e1e4faaf516a7838a5192/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9fb15f1f3201182c32b944a78387daef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9fb15f1f3201182c32b944a78387daef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/aea2e40ddc6d82c983e50669ef9f2743/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/aea2e40ddc6d82c983e50669ef9f2743/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2685c96d21c19b2bd1227c8eec387dee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2685c96d21c19b2bd1227c8eec387dee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73a6bb45d6fb75ade235fc7038bba671/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0-rc01] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73a6bb45d6fb75ade235fc7038bba671/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4cb7b4d48577e2a8dcf2e45217bb05b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4cb7b4d48577e2a8dcf2e45217bb05b9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/80f4cf6b00a03ffcfb14aa9e5b6dbf05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/80f4cf6b00a03ffcfb14aa9e5b6dbf05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bd7e7cf6861e6918ae7523d111c15a09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bd7e7cf6861e6918ae7523d111c15a09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d64c0d40002701939e3571e823027385/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d64c0d40002701939e3571e823027385/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/206d8ef14499af52d68bfee6aab1553d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/206d8ef14499af52d68bfee6aab1553d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bc16cd1079c538c70d55c87692efc518/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bc16cd1079c538c70d55c87692efc518/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/14468ee2141499e4d10c142c66dc4426/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/14468ee2141499e4d10c142c66dc4426/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1d7a8c6efb55ca0fee03a5d65963d575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1d7a8c6efb55ca0fee03a5d65963d575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/11b9b4274125f471b7c4526ae0f46a3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/11b9b4274125f471b7c4526ae0f46a3f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f9462f60c48cbfab3d5ad16a51e7506e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f9462f60c48cbfab3d5ad16a51e7506e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/81384c28eeb0f4592bf5830f2574b92a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/81384c28eeb0f4592bf5830f2574b92a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/94b64424c899e71115abf310ab79cc59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/94b64424c899e71115abf310ab79cc59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ff579a9f2188bbb217207ff52e920e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ff579a9f2188bbb217207ff52e920e92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2b899bba648fc5c5cbb4be5c8ab6f951/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/2b899bba648fc5c5cbb4be5c8ab6f951/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1bdc65628f143ae2ab4e91610c734b12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1bdc65628f143ae2ab4e91610c734b12/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24da5edd9ddc114cea93dd0b6d8a08ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24da5edd9ddc114cea93dd0b6d8a08ce/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/0972f960f2e384b7e68b155e74d48553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/0972f960f2e384b7e68b155e74d48553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f6c1c8dc062489ee5fbbd5f0a973ee91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/f6c1c8dc062489ee5fbbd5f0a973ee91/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/afd0396eef56ff22800056d26989a6d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/afd0396eef56ff22800056d26989a6d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b09b032338e469f813fb541384daec50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b09b032338e469f813fb541384daec50/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ae4e8c2dffada01e240cfa394036cf20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ae4e8c2dffada01e240cfa394036cf20/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/98649d9b54e207d634780f675c98c68b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/98649d9b54e207d634780f675c98c68b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b852fbb36192edc38c0b08f567834e3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b852fbb36192edc38c0b08f567834e3d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cdc525a133f520bf1032069a5ad8595c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cdc525a133f520bf1032069a5ad8595c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7481f4d80c9d224b7d183ed1ec2c1178/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7481f4d80c9d224b7d183ed1ec2c1178/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93d6c6562d773b5d4322ef17f2eb48d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93d6c6562d773b5d4322ef17f2eb48d9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/149de3f25434abefd1ff3e34f89c53fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/149de3f25434abefd1ff3e34f89c53fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fb9c83170e82163a6dcf04f28d0cd14e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fb9c83170e82163a6dcf04f28d0cd14e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a1ecbcbcf50c1fba3c4943bc6d73d75b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a1ecbcbcf50c1fba3c4943bc6d73d75b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7bdc8a8c33a311805525c8e7200ad7c8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7bdc8a8c33a311805525c8e7200ad7c8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a7ada7024f9838033918d092bf2ae30d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a7ada7024f9838033918d092bf2ae30d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e2aecbe952a2faf76f1d408d058eed71/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e2aecbe952a2faf76f1d408d058eed71/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/c740cbbee9d539e5e51c916e80234814/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/c740cbbee9d539e5e51c916e80234814/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d7b957acc596c708253fb498eb1052bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d7b957acc596c708253fb498eb1052bb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/34de2db0f2c0a701fe2dee8fb127f257/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/34de2db0f2c0a701fe2dee8fb127f257/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3a3345e6bc1bac3e82d9cafd7d0a6fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3a3345e6bc1bac3e82d9cafd7d0a6fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/dbd164de01d86f214420739d3613cbe1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/dbd164de01d86f214420739d3613cbe1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b8fc5c71eb86bdfc2afc975d971fa919/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b8fc5c71eb86bdfc2afc975d971fa919/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/5891c55201aef159da0f99ea8329a82c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/5891c55201aef159da0f99ea8329a82c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7287d8a3c7b1c34a061264d859f2ba85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/7287d8a3c7b1c34a061264d859f2ba85/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24684dd7c710245e5140e2fcb7772a3a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/24684dd7c710245e5140e2fcb7772a3a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1934f7210a80836572485b7e8bf1ec7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1934f7210a80836572485b7e8bf1ec7a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3228abb7af8ecbe63cf61744ac0afc20/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3228abb7af8ecbe63cf61744ac0afc20/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d137da2e073fac83e5762da3be9d93d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d137da2e073fac83e5762da3be9d93d6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4057cc9b66ccddd170413eb6857ba74a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4057cc9b66ccddd170413eb6857ba74a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ee38e1fcec0c9bc5eb33e4a25521d27d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ee38e1fcec0c9bc5eb33e4a25521d27d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6b68c84bc0259d68e65d888357ad7026/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6b68c84bc0259d68e65d888357ad7026/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/0e202be5e44f7698d6cbbdfc892a8666/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/0e202be5e44f7698d6cbbdfc892a8666/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9aa5c853ab70a3d53d25d5f916b7e15c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9aa5c853ab70a3d53d25d5f916b7e15c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/296ad9e31bea9a0af468c0dbda4ea668/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/296ad9e31bea9a0af468c0dbda4ea668/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da3f649938f3c4c606a1dcb857a6162f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da3f649938f3c4c606a1dcb857a6162f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8eab3fe92bc820fbfe8993196a02b92a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8eab3fe92bc820fbfe8993196a02b92a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3ed3653e83adb0dceb75eb814e5d9d8f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3ed3653e83adb0dceb75eb814e5d9d8f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/918cbe7ccf5cfa68763b02f033500abf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/918cbe7ccf5cfa68763b02f033500abf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/661a23fa9c49d4e1aa4047cda7bec6ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/661a23fa9c49d4e1aa4047cda7bec6ad/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6c2c0b192acf94df5755aef9a91b7c04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6c2c0b192acf94df5755aef9a91b7c04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da38fd668071bbc2cc8899e421378dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/da38fd668071bbc2cc8899e421378dc8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8154adcf6890fd26d63a7a3b685716fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8154adcf6890fd26d63a7a3b685716fc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/69871b6c84d3e5ac74a18995ef517ad7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/69871b6c84d3e5ac74a18995ef517ad7/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3e412f7034f5ce10c97c1755145c91b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d3e412f7034f5ce10c97c1755145c91b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8f8f1fa8918f58cb7718d0f362d37488/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/8f8f1fa8918f58cb7718d0f362d37488/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b13c1f409f0874432e4e938702218e3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/b13c1f409f0874432e4e938702218e3b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9bbc0326e7991904b5d834a4db6c6945/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9bbc0326e7991904b5d834a4db6c6945/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9c227537a7d4c2aa7f32aa6007e7b7d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9c227537a7d4c2aa7f32aa6007e7b7d4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3a6ccc41ff1daed0229cf7f7ac895aac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/3a6ccc41ff1daed0229cf7f7ac895aac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/19136f4a4767e4676f86c41ce19ef390/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/19136f4a4767e4676f86c41ce19ef390/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4826e76fa5cad6ebcdbe4c9083c0e992/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/4826e76fa5cad6ebcdbe4c9083c0e992/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/aeb1da4e3f1df782ac9907b82b326503/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/aeb1da4e3f1df782ac9907b82b326503/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/51204c1388a335d401cf58e67fec4f54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/51204c1388a335d401cf58e67fec4f54/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/44ae99ee503312d57da4077576c3bf83/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/44ae99ee503312d57da4077576c3bf83/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/215f21415affb8eb6a45cc2972ea7570/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/215f21415affb8eb6a45cc2972ea7570/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d96ec9a02ef4e88451fb840063ae348a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d96ec9a02ef4e88451fb840063ae348a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/404b8f017e405bda3dec55691179534e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/404b8f017e405bda3dec55691179534e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/369bd20e878ab950a6c6476430efdf93/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/369bd20e878ab950a6c6476430efdf93/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d8b2c07caf016c04c93c5788db52154d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/d8b2c07caf016c04c93c5788db52154d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9a2ac6a2bc87e88956e9b29412ce5b9d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9a2ac6a2bc87e88956e9b29412ce5b9d/AndroidManifest.xml:20:5-44
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/ebb206f50a5ef96cd71494c82190ef97/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+		ADDED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+		INJECTED from /home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/6d1ce01e969a60b425e0d67aa05bc4c0/AndroidManifest.xml:11:18-90
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9832c824874956fc442d7d667777c31c/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9832c824874956fc442d7d667777c31c/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bfe4e37d1925fda08cc18420f45cca73/AndroidManifest.xml:30:13-65
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/a0e3c69d6c88299bba49e741ffc6ed50/AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:27:22-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e287c66340a93b6bc4f66ea3cdccf0a/AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:26:13-76
+intent-filter#action:name:com.google.android.gms.appinvite.ACTION_PREVIEW+category:name:android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/cf0871e3cd21def075070c610f8d86bd/AndroidManifest.xml:32:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e4ced9377b0a08c5434670f415d9a7e0/AndroidManifest.xml:34:13-89
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e5d3d74ea2aa7208c96856d64eb7fab2/AndroidManifest.xml:24:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/bf4c9d07a6952f695d1fd642e5628c04/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/db814c907a97f26c80700ee0b6f0b7d2/AndroidManifest.xml:23:22-79
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/011b3aff5ac05614d38eb302ced9265f/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/73fd480079f85ef3aea15d35a67b0ebd/AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:29:13-82
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/e8e81915a7c91a8836c567e66a189532/AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:33:13-87
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.${applicationId}
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:36:13-43:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:tagmanager.c.com.vannhat.locationdemo
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/93c8654a2f9db84b6fca53e89ac1a55c/AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:34:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/9855dd8e87bc3a6032e3496183f57a22/AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/1e7efe74ac88d33fa6a1b7ad3c53fd0f/AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:29:9-63
+permission#com.vannhat.locationdemo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:32:22-76
+uses-permission#com.vannhat.locationdemo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:36:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:39:13-43:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.vannhat.locationdemo
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:42:27-58
+category#com.vannhat.locationdemo
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/908e1553a0d20a91c5c8984a989707d0/AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/fa545783d57402aca66c84b32b001cf1/AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/02d6e809520e1e4faaf516a7838a5192/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/02d6e809520e1e4faaf516a7838a5192/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/phan.van.nhat/.gradle/caches/transforms-2/files-2.1/02d6e809520e1e4faaf516a7838a5192/AndroidManifest.xml:24:13-58

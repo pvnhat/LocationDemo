@@ -1,0 +1,7 @@
+#Thu Jul 25 10:19:41 ICT 2019
+base.0=/home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/build/intermediates/transforms/dexMerger/debug/10
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/phan.van.nhat/AndroidFolder/App/LocationDemo/app/build/intermediates/transforms/dexMerger/debug/10
