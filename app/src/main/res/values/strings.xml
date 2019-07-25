@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LocationDemo</string>
+    <string name="get_location">Get Location</string>
+    <string name="next">Next</string>
+    <string name="just">JUST</string>
+    <string name="from">FROM</string>
+    <string name="interval">Interval</string>
+    <string name="defer">Defer</string>
+    <string name="create">Create</string>
+    <string name="done">Done!</string>
+    <string name="loading">loading …</string>
+    <string name="get_coordinates">Get Coordinates</string>
+    <string name="check_location">Check Location</string>
+</resources>
